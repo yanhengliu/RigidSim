@@ -1,0 +1,152 @@
+[
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glad/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glm/.. -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -o CMakeFiles/tpRigid.dir/src/main.cpp.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/src/main.cpp",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/src/main.cpp",
+  "output": "CMakeFiles/tpRigid.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glad/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glm/.. -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -o CMakeFiles/tpRigid.dir/src/Mesh.cpp.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/src/Mesh.cpp",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/src/Mesh.cpp",
+  "output": "CMakeFiles/tpRigid.dir/src/Mesh.cpp.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glad/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glm/.. -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -o CMakeFiles/tpRigid.dir/src/ShaderProgram.cpp.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/src/ShaderProgram.cpp",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/src/ShaderProgram.cpp",
+  "output": "CMakeFiles/tpRigid.dir/src/ShaderProgram.cpp.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glad/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glm/.. -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -o CMakeFiles/tpRigid.dir/dep/glad/src/gl.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glad/src/gl.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glad/src/gl.c",
+  "output": "CMakeFiles/tpRigid.dir/dep/glad/src/gl.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/context.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/context.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/context.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/init.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/init.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/init.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/input.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/input.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/input.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/monitor.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/monitor.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/monitor.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/platform.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/platform.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/platform.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/platform.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/vulkan.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/vulkan.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/vulkan.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/window.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/window.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/window.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/egl_context.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/egl_context.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/egl_context.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/osmesa_context.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/osmesa_context.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/osmesa_context.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/null_init.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/null_init.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/null_init.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/null_init.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/null_monitor.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/null_monitor.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/null_monitor.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/null_window.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/null_window.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/null_window.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/null_window.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/null_joystick.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/null_joystick.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/null_joystick.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_time.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/cocoa_time.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/cocoa_time.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/cocoa_time.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_module.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/posix_module.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/posix_module.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_thread.c.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/posix_thread.c",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/posix_thread.c",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_init.m.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/cocoa_init.m",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/cocoa_init.m",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_joystick.m.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/cocoa_joystick.m",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/cocoa_joystick.m",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_monitor.m.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/cocoa_monitor.m",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/cocoa_monitor.m",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_window.m.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/cocoa_window.m",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/cocoa_window.m",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o"
+},
+{
+  "directory": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -D_GLFW_COCOA -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/include -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src -I/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/build/dep/glfw/src -std=c99 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fPIC -Wall -o CMakeFiles/glfw.dir/nsgl_context.m.o -c /Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/nsgl_context.m",
+  "file": "/Users/fire/Desktop/Sorbonne/M1-S2/IG3D/TME/TME7/RigidSim/dep/glfw/src/nsgl_context.m",
+  "output": "dep/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o"
+}
+]
